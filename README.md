@@ -1,16 +1,53 @@
-# React + Vite
+# ✈️ JK Tour – Travel & Tourism Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **modern, responsive Single Page Application (SPA)** built for a fictional travel agency in Pakistan 🇵🇰.  
+This project demonstrates my ability to build **complex layouts**, manage **application state**, and create a **professional UI** without relying on component libraries.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:**  
+👉 *[Insert your Vercel / Netlify link here]*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Framework:** React (Vite)
+- **Styling:** Tailwind CSS
+- **Routing:** React Router DOM
+- **Icons:** Heroicons / React Icons
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Key Features
+
+- 📱 **Fully Responsive**  
+  Optimized for **mobile, tablet, and desktop** screens.
+
+- 🍔 **Custom Navigation**  
+  Hamburger menu built **from scratch** using React state.
+
+- 🖼️ **Modern Hero Section**  
+  Full-screen background images with overlay text.
+
+- 🧩 **Grid Layouts**  
+  Responsive grids for **Top Destinations** and **Services** sections.
+
+- 🧱 **Component Architecture**  
+  Clean, reusable components for **Cards**, **Buttons**, and **Sections**.
+
+
+## 💡 Lessons Learned
+
+- Moving from **“Tutorial Hell”** to independent problem solving  
+- Mastering **Tailwind CSS Grid & Flexbox** for complex layouts  
+- Handling **client-side routing** to prevent page reloads  
+
+---
+
+## 👨‍💻 Author
+
+**Saqib Shafiq**
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saqib-shafiq)
+- 💻 [GitHub](https://github.com/SaqibShafiq007)
+
+---
