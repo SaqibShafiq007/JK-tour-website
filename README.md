@@ -47,7 +47,7 @@ https://jk-tour-website.vercel.app/
 
 **Saqib Shafiq**
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saqib-shafiq)
-- 💻 [GitHub](https://github.com/SaqibShafiq007)
+- 🔗 [LinkedIn] : https://www.linkedin.com/feed/
+- 💻 [GitHub]   : https://github.com/SaqibShafiq007
 
 ---
